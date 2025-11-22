@@ -1,0 +1,11 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+.full-page-wrapper {
+	height: 100vh;
+	overflow: hidden;
+	display: grid;
+	grid-template-columns: 25% 42% 33%;
+	font-family: Arial;
+}

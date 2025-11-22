@@ -1,0 +1,95 @@
+.left-wrapper {
+	background-color: black;
+	color: white;
+	padding-top: 15px;
+	border: none;
+	border-right: 0.5px solid #2f3336;
+	padding-left: 100px;
+	padding-right: 12px;
+	height: 100vh;
+}
+
+.twitter-logo {
+	height: 29px;
+	padding: 9px 11px 9px 11px;
+	border-radius: 22px;
+	margin-top: -5px;
+	margin-bottom: 4px;
+	cursor: pointer;
+}
+.twitter-logo:hover {
+	background-color: #181818;
+	height: 29px;
+}
+.icon {
+	height: 23px;
+	display: inline-block;
+}
+.icons-wrapper {
+	margin-bottom: 10px;
+}
+.icons-container {
+	cursor: pointer;
+	padding: 10px 30px 10px 15px;
+	border-radius: 20px;
+	white-space: nowrap;
+	display: inline-flex;
+	gap: 10px;
+}
+.icons-text-home {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+}
+.icons-text {
+	font-size: 20px;
+	font-family: Arial;
+}
+.icons-second:hover {
+	background-color: #181818;
+}
+.post-container1 {
+	padding: 16px 93px;
+	background-color: white;
+	color: black;
+	font-family: Roboto, Arial;
+	border: none;
+	font-weight: bold;
+	border-radius: 30px;
+	font-size: 18px;
+	cursor: pointer;
+}
+.handle-container {
+	display: flex;
+	align-items: center;
+	gap: 13px;
+}
+.handle-image {
+	width: 40px;
+	border-radius: 50px;
+}
+.handle1 {
+	font-size: 15px;
+	font-weight: bold;
+	font-family: Arial;
+	margin-bottom: 4px;
+}
+.handle2 {
+	font-size: 15px;
+	font-family: Arial;
+	color: gray;
+	margin-top: 0px;
+}
+.handle-icon-container {
+	display: flex;
+	align-items: center;
+	margin-top: 78px;
+	cursor: pointer;
+	gap: 45px;
+	/* background-color: red; */
+	padding: 0px 10px 0px 7px;
+	border-radius: 40px;
+}
+.handle-icon-container:hover {
+	background-color: #181818;
+}
